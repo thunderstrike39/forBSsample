@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: forBSsample
+  annotations:
+    github.com/project-slug: thunderstrike39/forBSsample
+spec:
+  type: other
+  lifecycle: unknown
